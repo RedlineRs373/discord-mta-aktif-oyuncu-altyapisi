@@ -33,10 +33,9 @@ client.on("ready", () => {
 
 client.login("") // < Botun tokenini buraya girmelisiniz.
 
-
 //-- Daha fazla bot alt yapıları için discord sunucumuz: https://discord.gg/dMFjAy4fSX
 //-- Github link: https://github.com/redliners373 
 //-- eMail: edizmedia34@gmail.com
-//-- aka Ediz Öztürk 
+//-- aka Ediz Öztürk
 
                         // -- Code Development RedSton © - Viscreal Community - EdizMedya //

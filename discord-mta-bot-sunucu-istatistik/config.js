@@ -1,9 +1,8 @@
 module.exports = {
-  "token": "", //-- < Botun tokenini buraya yapıştırın.
-  "sahip": [""],  //-- < Kendi ID'nızı buraya yapıştırın.
-  "prefix": "" //-- < İstediğiniz prefix'i ekleyebilirsiniz.
+  "token": "",  //-- < Botun tokenini buraya yapıştırın.
+  "prefix": "",  //-- < İstediğiniz prefix'i ekleyebilirsiniz.
+  "sahip":"", //-- < Kendi ID'nızı buraya yapıştırın.
 };
-
 
 //-- Daha fazla bot alt yapıları için discord sunucumuz: https://discord.gg/dMFjAy4fSX
 //-- Github link: https://github.com/redliners373 
